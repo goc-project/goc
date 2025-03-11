@@ -1,2 +1,2 @@
 # goc
-A collection of JavaScript tools based on typescript-go.
+A collection of TypeScript tools based on typescript-go.
